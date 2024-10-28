@@ -1,0 +1,13 @@
+.Gallary{
+    display: inline-block;
+    border: 1px; color: darkmagenta;
+    margin: 4px;
+    padding: 0px;
+ }
+
+ body{
+    background-image: url(pink\ bckgrnd\ 3.avif);
+ }
+
+ 
+ 

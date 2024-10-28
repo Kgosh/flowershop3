@@ -1,0 +1,25 @@
+*{margin: 0px;
+padding: 0px;
+box-sizing: border-box;
+list-style: none;}
+body{background-color: rgb(240, 199, 224); 
+;
+place-content: centre;
+display: grid;
+align-items: center;
+padding: 150px 500px;
+padding-top: 10px;
+margin: 5px 5px;
+margin-bottom: 20px;
+position: relative;
+height: auto;
+justify-content: center;}
+header{
+    text-align: center;
+    font-style: italic;
+    color: rgb(66, 3, 40);
+    margin: 10px;
+
+}
+button{background-color: #ca7e7e}
+

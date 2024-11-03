@@ -1,10 +1,6 @@
 body{
-    background-color: pink;
-    margin:m ;
+   background-color: pink;
 }
-body{
-    text-align: center;
-}
-image{
-    display: inline-block;
+body .Gallary-Container{
+display: inline-block !important;
 }
